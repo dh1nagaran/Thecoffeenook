@@ -21,9 +21,9 @@ const Menu = () => {
   };
 
 
-  const categories = ["All", ...new Set(product.map((p) => p.category))];
+  const categories = ["All", ...new Set(products.map((p) => p.category))];
   console.log(categories)
-  const filteredProducts = selectedCategory === "All" ? product : product.filter((p) => p.category === selectedCategory);
+  const filteredProducts = selectedCategory === "All" ? products : products.filter((p) => p.category === selectedCategory);
   return (
     <div className='menu-container'>
       <div className="mini-contain" style={{ textAlign: "end" }}>
@@ -73,3 +73,4 @@ const Menu = () => {
 };
 
 export default Menu;
+
