@@ -1,0 +1,404 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Espresso",
+      "description": "Rich and bold espresso shot.",
+      "price": 2.50,
+      "image": "https://i.ibb.co/LX6xrVyt/image-removebg-preview-43.png",
+      "category": "Hot Coffee"
+    },
+    {
+      "id": 2,
+      "name": "Cappuccino",
+      "description": "Espresso with steamed milk and foam.",
+      "price": 3.00,
+      "image": "https://i.ibb.co/V00ZJR1q/image-removebg-preview-42.png",
+      "category": "Hot Coffee"
+    },
+    {
+      "id": 3,
+      "name": "Latte",
+      "description": "Smooth blend of espresso and steamed milk.",
+      "price": 3.50,
+      "image": "https://i.ibb.co/0VchWm4S/image-removebg-preview-41.png",
+      "category": "Hot Coffee"
+    },
+    {
+      "id": 4,
+      "name": "Mocha",
+      "description": "Espresso with chocolate and steamed milk.",
+      "price": 4.00,
+      "image": "https://clinical-chocolate-xgttvrl20v.edgeone.app/image-removebg-preview.png",
+      "category": "Hot Coffee"
+    },
+    {
+      "id": 5,
+      "name": "Americano",
+      "description": "Espresso with hot water, rich and smooth.",
+      "price": 2.75,
+      "image": "https://adverse-harlequin-bldg7n40ry.edgeone.app/milk-pouring-into-hot-coffee-removebg-preview.png",
+      "category": "Hot Coffee"
+    },
+    {
+      "id": 6,
+      "name": "Macchiato",
+      "description": "Espresso topped with a dash of milk foam.",
+      "price": 3.00,
+      "image": "https://added-gray-vh8qpit6yl.edgeone.app/coffee-frappe-removebg-preview.png",
+      "category": "Hot Coffee"
+    },
+    {
+      "id": 7,
+      "name": "Flat White",
+      "description": "Smooth espresso with microfoam milk.",
+      "price": 3.50,
+      "image": "https://linear-gray-tqvtn6eudq.edgeone.app/cup-cappuccino-saucer-blue-background-removebg-preview.png",
+      "category": "Hot Coffee"
+    },
+    {
+      "id": 8,
+      "name": "Iced Coffee",
+      "description": "Chilled coffee with ice cubes.",
+      "price": 2.50,
+      "image": "https://rising-olive-twrrx6w7ky.edgeone.app/view-3d-coffee-cup-removebg-preview.png",
+      "category": "Cold Coffee"
+    },
+    {
+      "id": 9,
+      "name": "Cold Brew",
+      "description": "Smooth cold brew coffee steeped overnight.",
+      "price": 3.50,
+      "image": "https://slippery-aqua-yapiavou0f.edgeone.app/aromatic-frappuccino-table__1_-removebg-preview.png",
+      "category": "Cold Coffee"
+    },
+    {
+      "id": 10,
+      "name": "Frappuccino",
+      "description": "Blended iced coffee with whipped cream.",
+      "price": 4.50,
+      "image": "https://tame-red-jku80om1lg.edgeone.app/close-up-aromatic-beverage-with-spices-removebg-preview.png",
+      "category": "Cold Coffee"
+    },
+    {
+      "id": 11,
+      "name": "Irish Coffee",
+      "description": "Coffee mixed with Irish whiskey and cream.",
+      "price": 5.00,
+      "image": "https://perfect-red-uqg1c3myki.edgeone.app/side-view-latte-with-coffee-beans-old-newspaper.png",
+      "category": "Special Coffee"
+    },
+    {
+      "id": 12,
+      "name": "Turkish Coffee",
+      "description": "Strong, unfiltered coffee with cardamom.",
+      "price": 3.00,
+      "image": "https://disappointed-turquoise-uhzqyi4ceb.edgeone.app/vertical-view-cup-black-tea-white-decorated-napkin-colourful-removebg-preview.png",
+      "category": "Special Coffee"
+    },
+    {
+      "id": 13,
+      "name": "Vienna Coffee",
+      "description": "Coffee topped with whipped cream.",
+      "price": 3.75,
+      "image": "http://monetary-black-wgripsjryd.edgeone.app/image-removebg-preview%20(1).png",
+      "category": "Special Coffee"
+    },
+    {
+      "id": 14,
+      "name": "Affogato",
+      "description": "Espresso poured over vanilla ice cream.",
+      "price": 4.00,
+      "image": "https://secret-gray-xvswjwqobw.edgeone.app/side-view-latte-with-coffee-beans-candles-white-cup-removebg-preview.png",
+      "category": "Dessert Coffee"
+    },
+    {
+      "id": 15,
+      "name": "Honey Latte",
+      "description": "Latte sweetened with honey.",
+      "price": 3.50,
+      "image": "https://whole-blue-hp1xplomrv.edgeone.app/image-removebg-preview%20(2).png",
+      "category": "Hot Coffee"
+    },
+    {
+      "id": 16,
+      "name": "Caramel Macchiato",
+      "description": "Latte with caramel drizzle.",
+      "price": 4.00,
+      "image": "https://fancy-pink-slrw9iwalt.edgeone.app/image-removebg-preview%20(3).png",
+      "category": "Hot Coffee"
+    },
+    {
+      "id": 17,
+      "name": "Pumpkin Spice Latte",
+      "description": "Seasonal latte with pumpkin spice flavors.",
+      "price": 4.50,
+      "image": "https://slippery-copper-eocpxyu4ek.edgeone.app/image-removebg-preview%20(4).png",
+      "category": "Hot Coffee"
+    },
+    {
+      "id": 18,
+      "name": "Café au Lait",
+      "description": "Coffee with steamed milk.",
+      "price": 3.25,
+      "image": "https://diverse-turquoise-djanvo25o0.edgeone.app/image-removebg-preview%20(5).png",
+      "category": "Hot Coffee"
+    },
+    {
+      "id": 19,
+      "name": "Nitro Coffee",
+      "description": "Cold brew infused with nitrogen.",
+      "price": 4.00,
+      "image": "http://democratic-rose-sgn9b70elp.edgeone.app/image-removebg-preview%20(7).png",
+      "category": "Cold Coffee"
+    },
+    {
+      "id": 20,
+      "name": "Matcha Latte",
+      "description": "Green tea latte with a creamy texture.",
+      "price": 4.25,
+      "image": "https://useful-blush-ey98hj8pu5.edgeone.app/image-removebg-preview%20(8).png",
+      "category": "Special Coffee"
+    },
+    {
+      "id": 21,
+      "name": "Chai Latte",
+      "description": "Spiced tea latte with steamed milk.",
+      "price": 3.75,
+      "image": "https://sore-blush-rv46korwxj.edgeone.app/image-removebg-preview%20(10).png",
+      "category": "Special Coffee"
+    },
+    {
+      "id": 22,
+      "name": "Hazelnut Latte",
+      "description": "Latte flavored with hazelnut syrup.",
+      "price": 3.75,
+      "image": "http://panicky-magenta-l4hskuuqyc.edgeone.app/image-removebg-preview%20(11).png",
+      "category": "Hot Coffee"
+    },
+    {
+      "id": 23,
+      "name": "Vanilla Latte",
+      "description": "Creamy latte with vanilla flavor.",
+      "price": 3.50,
+      "image": "https://massive-yellow-7fejkuekbf.edgeone.app/image-removebg-preview%20(12).png",
+      "category": "Hot Coffee"
+    },
+    {
+      "id": 24,
+      "name": "Coconut Latte",
+      "description": "Latte with a tropical coconut twist.",
+      "price": 4.00,
+      "image": "https://unsightly-lime-ovuvtlclpi.edgeone.app/image-removebg-preview%20(13).png",
+      "category": "Hot Coffee"
+    },
+    {
+      "id": 25,
+      "name": "Iced Mocha",
+      "description": "Cold coffee with chocolate and milk.",
+      "price": 4.00,
+      "image": "https://decisive-emerald-ysjek2rlvu.edgeone.app/image-removebg-preview%20(14).png",
+      "category": "Cold Coffee"
+    },
+    {
+      "id": 26,
+      "name": "Iced Latte",
+      "description": "Cold espresso with milk over ice.",
+      "price": 3.50,
+      "image": "https://communist-amethyst-uynphmo4ft.edgeone.app/image-removebg-preview%20(15).png",
+      "category": "Cold Coffee"
+    },
+    {
+      "id": 27,
+      "name": "Honey Iced Coffee",
+      "description": "Cold coffee sweetened with honey.",
+      "price": 3.25,
+      "image": "https://aesthetic-lime-kcnz4smgu8.edgeone.app/image-removebg-preview%20(16).png",
+      "category": "Cold Coffee"
+    },
+    {
+      "id": 28,
+      "name": "Café Bombón",
+      "description": "Espresso with sweetened condensed milk.",
+      "price": 3.75,
+      "image": "https://planned-jade-mlfbzphtjy.edgeone.app/image-removebg-preview%20(17).png",
+      "category": "Special Coffee"
+    },
+    {
+      "id": 29,
+      "name": "Black Coffee",
+      "description": "Simple brewed black coffee.",
+      "price": 2.00,
+      "image": "https://fond-olive-tcb2rlcdgv.edgeone.app/image-removebg-preview%20(18).png",
+      "category": "Hot Coffee"
+    },
+    {
+      "id": 30,
+      "name": "Dalgona Coffee",
+      "description": "Whipped coffee layered over milk.",
+      "price": 3.75,
+      "image": "https://loud-lime-3i1tfog1oj.edgeone.app/image-removebg-preview%20(19).png",
+      "category": "Cold Coffee"
+    },
+    {
+      "id": 31,
+      "name": "Espresso Con Panna",
+      "description": "Espresso topped with whipped cream.",
+      "price": 3.25,
+      "image": "https://continued-tan-cbatkm1li1.edgeone.app/image-removebg-preview%20(20).png",
+      "category": "Hot Coffee"
+    },
+    {
+      "id": 32,
+      "name": "White Chocolate Mocha",
+      "description": "Rich mocha with white chocolate.",
+      "price": 4.25,
+      "image": "https://vertical-emerald-ciqslrjtgt.edgeone.app/image-removebg-preview%20(21).png",
+      "category": "Hot Coffee"
+    },
+    {
+      "id": 33,
+      "name": "Maple Latte",
+      "description": "Latte with maple syrup flavor.",
+      "price": 3.75,
+      "image": "https://manual-tomato-qiwdbum3wm.edgeone.app/image-removebg-preview%20(22).png",
+      "category": "Hot Coffee"
+    },
+    {
+      "id": 34,
+      "name": "Ginger Latte",
+      "description": "Latte with ginger infusion.",
+      "price": 3.75,
+      "image": "https://doubtful-apricot-oka3foksul.edgeone.app/image-removebg-preview%20(23).png",
+      "category": "Hot Coffee"
+    },
+    {
+      "id": 35,
+      "name": "Almond Milk Latte",
+      "description": "Latte with almond milk substitute.",
+      "price": 3.50,
+      "image": "https://cooing-harlequin-ykmeutw7fe.edgeone.app/image-removebg-preview%20(24).png",
+      "category": "Hot Coffee"
+    },
+    {
+      "id": 36,
+      "name": "Protein Coffee",
+      "description": "Coffee blended with protein powder.",
+      "price": 4.50,
+      "image": "https://amazing-aquamarine-lvvxfulnr2.edgeone.app/image-removebg-preview%20(25).png",
+      "category": "Special Coffee"
+    },
+    {
+      "id": 37,
+      "name": "Rose Latte",
+      "description": "Floral latte with rose essence.",
+      "price": 4.00,
+      "image": "https://representative-scarlet-3caxye57xg.edgeone.app/image-removebg-preview%20(26).png",
+      "category": "Hot Coffee"
+    },
+    {
+      "id": 38,
+      "name": "Beetroot Latte",
+      "description": "Vibrant latte with beetroot juice.",
+      "price": 4.25,
+      "image": "https://open-turquoise-bszyakduma.edgeone.app/image-removebg-preview%20(27).png",
+      "category": "Special Coffee"
+    },
+    {
+      "id": 39,
+      "name": "Butter Coffee",
+      "description": "Coffee blended with butter and oil.",
+      "price": 4.50,
+      "image": "https://wet-green-h4pdal7fh2.edgeone.app/image-removebg-preview%20(28).png",
+      "category": "Special Coffee"
+    },
+    {
+      "id": 40,
+      "name": "Cinnamon Latte",
+      "description": "Latte infused with cinnamon spice.",
+      "price": 3.75,
+      "image": "https://empirical-rose-mrk8zhkz2p.edgeone.app/image-removebg-preview%20(29).png",
+      "category": "Hot Coffee"
+    },
+    {
+      "id": 41,
+      "name": "Spiced Cold Brew",
+      "description": "Cold brew with spices like nutmeg and cinnamon.",
+      "price": 4.00,
+      "image": "https://i.ibb.co/F4QxTBTc/image-removebg-preview-30.png",
+      "category": "Cold Coffee"
+    },
+    {
+      "id": 42,
+      "name": "Lavender Latte",
+      "description": "Floral latte with lavender essence.",
+      "price": 4.00,
+      "image": "https://i.ibb.co/8LZw6zvx/image-removebg-preview-31.png",
+      "category": "Hot Coffee"
+    },
+    {
+      "id": 43,
+      "name": "Turmeric Latte",
+      "description": "Golden latte with turmeric spices.",
+      "price": 4.25,
+      "image": "https://i.ibb.co/KpSFgMPk/image-removebg-preview-33.png",
+      "category": "Special Coffee"
+    },
+    {
+      "id": 44,
+      "name": "Mocha Frappe",
+      "description": "Blended mocha with ice and whipped cream.",
+      "price": 4.50,
+      "image": "https://i.ibb.co/27Jw2CtC/image-removebg-preview-34.png",
+      "category": "Cold Coffee"
+    },
+    {
+      "id": 45,
+      "name": "Hazelnut Cold Brew",
+      "description": "Cold brew coffee with hazelnut flavor.",
+      "price": 4.00,
+      "image": "https://i.ibb.co/8DC7PVPz/image-removebg-preview-35.png",
+      "category": "Cold Coffee"
+    },
+    {
+      "id": 46,
+      "name": "Coconut Cold Brew",
+      "description": "Cold brew coffee with coconut milk.",
+      "price": 4.25,
+      "image": "https://i.ibb.co/fYK9PzCD/image-removebg-preview-36.png",
+      "category": "Cold Coffee"
+    },
+    {
+      "id": 47,
+      "name": "Mint Mocha",
+      "description": "Mocha with refreshing mint flavor.",
+      "price": 4.50,
+      "image": "https://i.ibb.co/cKnmc0DT/image-removebg-preview-37.png",
+      "category": "Special Coffee"
+    },
+    {
+      "id": 48,
+      "name": "Almond Cold Latte",
+      "description": "Cold latte with almond milk.",
+      "price": 3.75,
+      "image": "https://i.ibb.co/Cp49Qxcd/image-removebg-preview-38.png",
+      "category": "Cold Coffee"
+    },
+    {
+      "id": 49,
+      "name": "Espresso Tonic",
+      "description": "Espresso over tonic water for a fizzy kick.",
+      "price": 4.00,
+      "image": "https://i.ibb.co/Wpf4jbVx/image-removebg-preview-39.png",
+      "category": "Special Coffee"
+    },
+    {
+      "id": 50,
+      "name": "Butter Pecan Latte",
+      "description": "Latte flavored with butter pecan syrup.",
+      "price": 4.25,
+      "image": "https://i.ibb.co/MkX97511/image-removebg-preview-40.png",
+      "category": "Hot Coffee"
+    }
+  ]
+}
