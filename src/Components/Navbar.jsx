@@ -22,11 +22,11 @@ const Navbar = () => {
                 <ul>
                     <li onClick={homes}>Home</li>
                     <Link to="about" smooth={true} duration={500}>
-                        <li onClick={() => { navigate("/home/#about") }}>About Us</li>
+                        <li onClick={() => { navigate("/#about") }}>About Us</li>
                     </Link>
                     <li onClick={(() => { navigate("/menu") })}>Our Menu</li>
                     <Link to="contacts" smooth={true} duration={500}>
-                        <li onClick={() => { navigate("/home/#contacts") }}>Contact</li>
+                        <li onClick={() => { navigate("/#contacts") }}>Contact</li>
                     </Link>
                 </ul>
             </div>
@@ -37,3 +37,4 @@ const Navbar = () => {
 
 
 export default Navbar
+
