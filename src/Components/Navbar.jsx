@@ -10,7 +10,7 @@ import '../Media.css'
 const Navbar = () => {
     let navigate = useNavigate()
     function homes() {
-        navigate("/home")
+        navigate("/")
     }
     return (
         <div className='nav-container'>
@@ -34,5 +34,6 @@ const Navbar = () => {
         </div>
     )
 }
+
 
 export default Navbar
